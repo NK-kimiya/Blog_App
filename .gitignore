@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# 環境
+env/
+venv/
+ENV/
+.venv/
+.Python
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# Django特有
+db.sqlite3
+media/
+staticfiles/
+
+# 環境変数や秘密情報
+.env
+
+# ログや一時ファイル
+*.log
+*.pot
+*.pyc
+*.mo
+
+# IDEやOSの不要ファイル
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
