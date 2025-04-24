@@ -4,7 +4,7 @@
 
 病気や障がいを抱えた方の辛い気持ちや挫折を乗り越えた経験を当事者同士で共有できること、同じ境遇の方同士でSNSのグループを通して繋がることができることを目的としてミニマムで開発しました。　
 
-(紹介ページ)[https://kimikou-blog.jp/prototypes/blog-app/]
+[紹介ページ](https://kimikou-blog.jp/prototypes/blog-app/)
 
 ## ✅ 各ファイルの主な機能
 
